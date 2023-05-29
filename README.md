@@ -42,7 +42,7 @@ Siéntete libre de explorar el repositorio de TelePong para ver el código fuent
 Si deseas comunicarte conmigo, puedes encontrarme en las siguientes plataformas:
 
 - Correo electrónico: feracosentino@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/fernando-cosentino-8477b921b/)
+- LinkedIn: https://www.linkedin.com/in/feracosentino/
 
 ¡Estoy emocionado por seguir creciendo como desarrollador y colaborar en proyectos interesantes! Siéntete libre de contactarme para cualquier consulta o colaboración.
 
