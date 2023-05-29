@@ -25,7 +25,7 @@ Además, GitHub me brinda la oportunidad de compartir y mostrar los proyectos en
 
 Aquí hay algunos de mis proyectos destacados:
 
-### TelePong #### https://github.com/ChurritoDeFlores/TelePong
+### TelePong (https://github.com/ChurritoDeFlores/TelePong)
 TelePong es mi propia versión de un clásico videojuego, inspirado en el juego original Pong. Este proyecto surgió durante una clase en la que aprendimos sobre colisiones y el uso del teclado para controlar objetos en una interfaz de Windows Forms.
 En TelePong, he aplicado los conceptos aprendidos para crear un juego divertido y emocionante para dos jugadores. El objetivo es golpear la pelota con las paletas controladas por los jugadores y evitar que la pelota salga de los límites de la pantalla. Cada vez que la pelota golpea una paleta, rebota en la dirección opuesta, desafiando a los jugadores a reaccionar rápidamente y anticipar los movimientos del oponente.
 He añadido mi toque personal al juego, utilizando colores vibrantes y algunas imágenes que creé con mi experiencia en Photoshop. Aunque sé que hay margen para mejorar TelePong con mis conocimientos actuales, he decidido dejarlo tal como está para recordar el progreso que logré en ese momento y la satisfacción de ver mi programa funcionar.
